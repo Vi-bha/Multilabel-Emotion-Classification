@@ -72,7 +72,7 @@ Emotion recognition is inherently multi-label — a person can simultaneously ex
 ## Repository Structure
 
 ```
-multilabel-emotion-classification/
+Multilabel-Emotion-Classification/
 ├── experiments.py          # Full 4×4 grid experiment (all methods × all classifiers)
 ├── requirements.txt
 ├── results/
@@ -91,7 +91,7 @@ multilabel-emotion-classification/
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/multilabel-emotion-classification.git
+git clone https://github.com/Vi-bha/Multilabel-Emotion-Classification.git
 cd multilabel-emotion-classification
 
 # Install dependencies
