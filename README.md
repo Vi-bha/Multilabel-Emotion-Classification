@@ -159,7 +159,7 @@ If you use this work, please cite:
 ```bibtex
 @inproceedings{tummewar2025multilabel,
   title     = {Comparison of Multilabel Classification Techniques for Emotion Recognition},
-  author    = {Tummewar, Vibhavari and Shukla, Sanyam and Gyanchandani, Manasi},
+  author    = {Vibhavari Tummewar and Sanyam Shukla and Manasi Gyanchandani},
   booktitle = {AIoT -- Integration of Smart Intelligence and IoT: Proceedings of the 10th International
                Conference on Internet of Things and Connected Technologies (ICIoTCT 2025)},
   publisher = {Springer},
