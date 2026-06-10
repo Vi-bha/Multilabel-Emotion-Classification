@@ -171,4 +171,4 @@ If you use this work, please cite:
 
 ## Related Work
 
-This repository complements [LASRMIS](https://github.com/<your-username>/lasrmis) — a Scopus-indexed medical AI system — demonstrating breadth across both classical ML benchmarking and production medical AI.
+This repository complements [LASRMIS](https://github.com/Vi-bha/LASRMIS-LLM-Assisted-Structured-Reporting-from-MRI-Segmentation) — a Scopus-indexed medical AI system — demonstrating breadth across both classical ML benchmarking and production medical AI.
