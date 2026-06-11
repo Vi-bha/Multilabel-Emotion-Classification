@@ -81,8 +81,7 @@ Multilabel-Emotion-Classification/
 │       ├── f1_heatmap.png          # Micro-F1 across methods & classifiers
 │       ├── hamming_heatmap.png     # Hamming Loss heatmap
 │       └── rakel_rf_radar.png      # Radar chart: best model (RAkEL + RF)
-└── paper/
-    └── multilabel_emotion_classification.pdf
+└──  multilabel_emotion_classification.pdf
 ```
 
 ---
