@@ -68,6 +68,16 @@ Emotion recognition is inherently multi-label — a person can simultaneously ex
 > **Practical recommendation:** Random Forest + Binary Relevance gives the best balance of performance and simplicity (Micro-F1: 0.7433, Hamming Loss: 0.1765) with the lowest computational overhead.
 
 ---
+## Visualizations
+
+### Micro-F1 Score across Methods & Classifiers
+![F1 Heatmap](results/figures/f1_heatmap.png)
+
+### Hamming Loss across Methods & Classifiers
+![Hamming Loss Heatmap](results/figures/hamming_heatmap.png)
+
+### Best Model — RAkEL + Random Forest
+![Radar Chart](results/figures/rakel_rf_radar.png)
 
 ## Repository Structure
 
